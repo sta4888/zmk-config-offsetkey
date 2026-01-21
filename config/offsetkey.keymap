@@ -3,7 +3,7 @@
 #define MOUSE_KEYS 2
 #define MOUSE_TP 3
 #define MOUSE_TP_SET 4
-#define ZMK_POINTING_DEFAULT_SCRL_VAL 25   // 10
+#define ZMK_POINTING_DEFAULT_SCRL_VAL 45   // 10
 
 #include <input/processors.dtsi>
 #include <zephyr/dt-bindings/input/input-event-codes.h>
